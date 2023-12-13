@@ -4,6 +4,7 @@ void add(){
  sum=a+b;
  printf("sum=%d",sum);
 }
+
 void sub(){
  int a,b,sub;
  sum=a-b;
