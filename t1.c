@@ -4,6 +4,11 @@ int add(){
  sum=a+b;
  printf("sum=%d",sum);
 }
+int mul(){
+ int a,b,mul;
+ mul=a*b;
+ printf("mul=%d",mul);
+}
 int main(){
  add()
  sub()
