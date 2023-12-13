@@ -9,6 +9,11 @@ void sub(){
  sum=a-b;
  printf("sub=%d",sub);
 }
+int mul(){
+ int a,b,mul;
+ mul=a*b;
+ printf("mul=%d",mul);
+}
 int main(){
  add()
  sub()
